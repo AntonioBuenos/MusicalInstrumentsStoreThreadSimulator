@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70350fc5-4d73-4f8f-be8b-08b64226b221" name="Changes" comment="" />
+    <list default="true" id="70350fc5-4d73-4f8f-be8b-08b64226b221" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/StoreQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/customer_types/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/customer_types/Pensioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/entities/customer_types/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/interfaces/CustomerAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/interfaces/ShoppingCardAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/repo/PriceListRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/repo/Wordings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/services/CashierWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/services/CustomerWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/services/StoreWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/utils/Randomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/utils/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/smirnov/threadsstore/utils/Sleeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,13 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +53,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661594048753</updated>
+      <workItem from="1661594050770" duration="1626000" />
+      <workItem from="1661604887328" duration="960000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
